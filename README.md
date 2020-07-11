@@ -9,4 +9,18 @@ There is a little intro to let you know what to expect:
   -  :checkered_flag: I'm Brazilian, so a lot of information will be in brazilian portuguese
   -  :nerd_face: I don't know much, but i'm always trying to learn something new. If you think I could do better in something, please let me know
 
-Thats it. Hope you find what you looking for...     :black_heart:
+Thats it. Hope you find what you looking for...     <img alt=":black-heart:" width="24px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/heart.svg" />
+
+
+  <a href="https://in.linkedin.com/in/iara">
+    <img align="left" alt="Linkedin" width="24px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/whoisiara_">
+    <img align="left" alt="Twitter" width="26px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/whoisiara/">
+    <img align="left" alt="Instagram" width="24px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/instagram.svg" />
+  </a>
+  <a href="mailto:iara99oliveira@gmail.com">
+    <img align="left" alt="Gmail" width="26px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/email.svg" />
+  </a>
