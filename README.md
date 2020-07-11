@@ -9,18 +9,18 @@ There is a little intro to let you know what to expect:
   - I'm Brazilian, so a lot of information will be in brazilian portuguese
   - I don't know much, but i'm always trying to learn something new. If you think I could do better in something, please let me know
 
-Thats it. Hope you find what you looking for...     <img alt=":black-heart:" width="24px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/heart.svg" />
+Thats it. Hope you find what you looking for...     <img alt=":black-heart:" width="18px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/heart.svg" />
 
 
   <a href="https://in.linkedin.com/in/iara">
-    <img align="left" alt="Linkedin" width="24px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/linkedin.svg" />
+    <img align="left" alt="Linkedin" width="21px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/linkedin.svg" />
   </a>
   <a href="https://twitter.com/whoisiara_">
-    <img align="left" alt="Twitter" width="26px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/twitter.svg" />
+    <img align="left" alt="Twitter" width="23px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/twitter.svg" />
   </a>
   <a href="https://www.instagram.com/whoisiara/">
-    <img align="left" alt="Instagram" width="24px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/instagram.svg" />
+    <img align="left" alt="Instagram" width="21px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/instagram.svg" />
   </a>
   <a href="mailto:iara99oliveira@gmail.com">
-    <img align="left" alt="Gmail" width="26px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/email.svg" />
+    <img align="left" alt="Gmail" width="23px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/email.svg" />
   </a>
