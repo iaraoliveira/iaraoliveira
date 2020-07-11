@@ -1,6 +1,8 @@
 ### Hello, there :)
 
+<!---
 teste para um read versão br -> [Portuguese](https://github.com/iaraoliveira/iaraoliveira/blob/master/README-pt.md)
+-->
 
 First of all, welcome to my GitHub
 
