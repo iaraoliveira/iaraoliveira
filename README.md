@@ -13,7 +13,9 @@
     <img align="left" alt="Gmail" width="23px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/email.svg" />
   </a>
 
+<br/><br/>
 
+Welcome to my GitHub!<br/>
 There is a little intro to let you know what to expect:
 
   - Currently i'm learning about React and Node, so you will probably see a lot of this around here;
