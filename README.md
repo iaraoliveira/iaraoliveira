@@ -1,17 +1,24 @@
 ### Hello, there :)
 
-<!-- 
-<p> I'm a brazilian fullstack developer, addicted to caffeine, who is always always trying to learn something new. </p>
-<p> Currently, i'm studying React, React Native and NodeJS at <a href="https://rocketseat.com.br/">Rocketseat</a> and also maintaining some personal projects</p>
+Welcome to my github. Here are some facts to let you know what to expect: <br/>
+
+ . Fullstack developer <br/>
+ . Brazilian <br/>
+ . Addicted to caffeine <br/>
+ . Always trying to learn something new. <br/>
+
+ \> Currently studying about React and Node at [Rocketseat](https://rocketseat.com.br/) <br/>
+ and also maintaining some personal projects.
 <br/>
--->
+<br/>
+
 
   <a href="https://in.linkedin.com/in/iara">
-    <img align="left" alt="Linkedin" width="23px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/linkedin.svg" />
+    <img align="left" alt="Linkedin" width="25px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/linkedin.svg" />
   </a>
   <a href="https://twitter.com/whoisiara_">
-    <img align="left" alt="Twitter" width="25px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/twitter.svg" />
+    <img align="left" alt="Twitter" width="27px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/twitter.svg" />
   </a>
   <a href="mailto:iara99oliveira@gmail.com">
-    <img align="left" alt="Gmail" width="25px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/email.svg" />
+    <img align="left" alt="Gmail" width="27px" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/email.svg" />
   </a>
