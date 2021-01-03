@@ -1,4 +1,6 @@
-### Hello, there :)
+<!-- ### Hello, there :) -->
+
+<img align="left" alt="Hello There :)" src="https://github.com/iaraoliveira/iaraoliveira/blob/master/assets/hello.svg" />
 
 Welcome to my github. Here are some facts to let you know what to expect: <br/>
 
