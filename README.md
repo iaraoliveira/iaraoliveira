@@ -10,8 +10,7 @@ Welcome to my github. Here are some facts to let you know what to expect: <br/>
 
  \> Work with PHP and Angular at [Senior Sistemas](https://www.senior.com.br/). </br>
  
- \> Currently studying about React and Node at [Rocketseat](https://rocketseat.com.br/) <br/>
- and also maintaining some personal projects.
+ \> Currently studying about Vue.js and also maintaining some personal projects.
 <br/>
 <br/>
 
