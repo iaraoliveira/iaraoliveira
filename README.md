@@ -8,9 +8,9 @@ Welcome to my github. Here are some facts to let you know what to expect: <br/>
  . Addicted to caffeine <br/>
  . Always trying to learn something new. <br/>
 
- \> Work with PHP and Angular at [Senior Sistemas](https://www.senior.com.br/). </br>
+ \> Work with PHP and AngularJS at [Senior Sistemas](https://www.senior.com.br/). </br>
  
- \> Currently studying about Vue.js and also maintaining some personal projects.
+ \> Currently studying Vue.js and also maintaining some personal projects.
 <br/>
 <br/>
 
