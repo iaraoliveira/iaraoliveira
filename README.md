@@ -3,12 +3,10 @@
 Welcome to my github. Here are some facts to let you know what to expect: <br/>
 
  . Fullstack developer <br/>
- . 22yo </br>
+ . 23yo </br>
  . Brazilian <br/>
  . Addicted to caffeine <br/>
  . Always trying to learn something new. <br/>
-
- \> Work with PHP and AngularJS at [Senior Sistemas](https://www.senior.com.br/). </br>
  
  \> Currently studying React and Node.js at [Rocketseat](https://rocketseat.com.br/) and also maintaining some personal projects.
 <br/>
