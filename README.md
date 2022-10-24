@@ -9,9 +9,9 @@ Welcome to my github. Here are some facts to let you know what to expect: <br/>
  . CSS is your friend, not your enemy <br/>
  . Always trying to learn something new <br/>
  
- \> Currently studying React and Node.js at [Rocketseat](https://rocketseat.com.br/)
- \> Trying to practice some VueJS at [VueMastery](https://www.vuemastery.com/)
-<br/>
+ \> Currently studying React and Node.js at [Rocketseat](https://rocketseat.com.br/) <br/>
+ \> Trying to practice some VueJS at [VueMastery](https://www.vuemastery.com/) <br/>
+
 <br/>
 
   <a href="https://in.linkedin.com/in/iara">
