@@ -3,7 +3,7 @@
 Welcome to my github. Here are some facts to let you know what to expect: <br/>
 
  . Fullstack developer <br/>
- . 23yo </br>
+ . 24yo </br>
  . Brazilian <br/>
  . Addicted to caffeine <br/>
  . CSS is your friend, not your enemy <br/>
@@ -11,6 +11,7 @@ Welcome to my github. Here are some facts to let you know what to expect: <br/>
  
  \> Currently studying React and Node.js at [Rocketseat](https://rocketseat.com.br/) <br/>
  \> Trying to practice some VueJS at [VueMastery](https://www.vuemastery.com/) <br/>
+ \> Also studying Software Development at [FURB](https://www.furb.br/pt/graduacao/sistemas-de-Informacao)<br/>
 
 <br/>
 
