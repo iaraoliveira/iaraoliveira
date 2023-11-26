@@ -2,6 +2,7 @@
 
 Welcome to my github. Here are some facts to let you know what to expect: <br/>
 
+ . 🏳️‍🌈🏳️‍⚧️
  . Fullstack developer <br/>
  . 24yo </br>
  . Brazilian <br/>
