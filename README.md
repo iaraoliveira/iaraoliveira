@@ -2,11 +2,11 @@
 
 Welcome to my github. Here are some facts to let you know what to expect: <br/>
 
- . 🏳️‍🌈🏳️‍⚧️
+ . 🏳️‍🌈🏳️‍⚧️ <br/>
  . Fullstack developer <br/>
  . 24yo </br>
  . Brazilian <br/>
- . Addicted to caffeine <br/>
+ . Caffeine addicted <br/>
  . CSS is your friend, not your enemy <br/>
  . Always trying to learn something new <br/>
  
